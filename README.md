@@ -1,2 +1,0 @@
-# moneysender
- dapp money sender
